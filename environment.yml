@@ -1,0 +1,6 @@
+name: buildozer
+channels:
+-conda-forg
+-defaults
+dependencies:
+-python=3.10
